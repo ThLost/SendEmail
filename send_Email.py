@@ -32,4 +32,4 @@ class SendEmail:
 if __name__ == '__main__':
 
     mailto_list = ['hacker_email@qq.com']
-    result = SendEmail().send_Emails('Hacker', mailto_list, 'Send to Hacker', '老板，来活了！！！')
+    result = SendEmail().send_Emails('TheLost', mailto_list, 'Hello', 'Hi, nice to meet you!')
