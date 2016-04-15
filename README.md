@@ -2,7 +2,7 @@
 
 一个用于发送邮件的Python程序
 
-*在config中配置邮件信息
+# 在config中配置邮件信息
 
   mail_host 设置服务器 如 "smtp.163.com"
   
