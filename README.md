@@ -16,7 +16,7 @@ config.py
 
 ## 使用说明
 
-send_Mail.py
+send_Email.py
       
 SendEmail().send_Emails(YourName, NameList, Subject, Content)
       
