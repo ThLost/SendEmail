@@ -15,6 +15,8 @@ config.py
       mail_postfix 发件箱类型 如 "163"、"qq"
 
 ## 使用说明
+
+send_Mail.py
       
 SendEmail().send_Emails(YourName, NameList, Subject, Content)
       
