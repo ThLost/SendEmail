@@ -19,6 +19,9 @@ config.py
 SendEmail().send_Emails(YourName, NameList, Subject, Content)
       
       YourName    你想定义的发送者名字
+      
       NameList    邮件收件人 如 NameList = ['A','B']
+      
       Subject     发送邮件的主题
+      
       Content     想要发送邮件内容
